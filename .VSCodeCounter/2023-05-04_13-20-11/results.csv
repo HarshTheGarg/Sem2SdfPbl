@@ -1,0 +1,16 @@
+"filename", "language", "C++", "Makefile", "comment", "blank", "total"
+"/home/zard/college/sdf/sem 2/pbl/Makefile", "Makefile", 0, 9, 0, 3, 12
+"/home/zard/college/sdf/sem 2/pbl/auth.cpp", "C++", 39, 0, 36, 17, 92
+"/home/zard/college/sdf/sem 2/pbl/auth.h", "C++", 6, 0, 8, 5, 19
+"/home/zard/college/sdf/sem 2/pbl/clearS.cpp", "C++", 11, 0, 12, 3, 26
+"/home/zard/college/sdf/sem 2/pbl/clearS.h", "C++", 4, 0, 5, 4, 13
+"/home/zard/college/sdf/sem 2/pbl/connect.cpp", "C++", 29, 0, 28, 16, 73
+"/home/zard/college/sdf/sem 2/pbl/connect.h", "C++", 5, 0, 7, 5, 17
+"/home/zard/college/sdf/sem 2/pbl/main.cpp", "C++", 58, 0, 46, 31, 135
+"/home/zard/college/sdf/sem 2/pbl/student.cpp", "C++", 149, 0, 92, 68, 309
+"/home/zard/college/sdf/sem 2/pbl/student.h", "C++", 5, 0, 6, 5, 16
+"/home/zard/college/sdf/sem 2/pbl/teacher.cpp", "C++", 216, 0, 79, 72, 367
+"/home/zard/college/sdf/sem 2/pbl/teacher.h", "C++", 5, 0, 0, 0, 5
+"/home/zard/college/sdf/sem 2/pbl/totAvMarks.cpp", "C++", 17, 0, 0, 4, 21
+"/home/zard/college/sdf/sem 2/pbl/totAvMarks.h", "C++", 5, 0, 0, 0, 5
+"Total", "-", 549, 9, 319, 233, 1110
